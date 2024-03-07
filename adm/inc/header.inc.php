@@ -11,5 +11,4 @@
 
     <header>
         <h1>Aqui será meu cabeçalho</h1>
-        <p>Testando o github</p>
     </header>
