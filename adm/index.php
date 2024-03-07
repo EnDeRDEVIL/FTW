@@ -6,6 +6,8 @@
 
 <p>oi</p>
 
+<p>Testando o github</p>
+
 <?php
     include 'inc/footer.inc.php';
 ?>
