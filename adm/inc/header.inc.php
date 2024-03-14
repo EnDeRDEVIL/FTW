@@ -9,7 +9,15 @@
 </head>
 
 <body>
-
+    <div class="fluid-container bg-danger text-center">
     <header>
-        <h1>Aqui será meu cabeçalho</h1>
+        <div class="navbar navbar-warning bg-warning">
+            <div class="fluid-container d-flex justify-content-between">
+                <img src="img/logo2.png" class="img-fluid" style="width: 20%">
+            </div>
+
+            <nav>
+                <a href="#" class=" text-white">Login</a>
+            </nav>
+        </div>
     </header>
